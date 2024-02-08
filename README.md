@@ -1,2 +1,3 @@
-# hera
-for class
+# Project HERA
+
+This is project **hera**!
